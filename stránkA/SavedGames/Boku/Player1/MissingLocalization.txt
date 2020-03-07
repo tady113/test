@@ -1,0 +1,487 @@
+Strings.xml - Identical to EN: foo
+Strings.xml - Identical to EN: actorNames.boku
+Strings.xml - Missing: actorNames.missile
+Strings.xml - Missing: actorNames.vlogster
+Strings.xml - Missing: actorNames.rover
+Strings.xml - Missing: actorNames.clam
+Strings.xml - Missing: actorNames.lilypad
+Strings.xml - Missing: actorNames.seagrass
+Strings.xml - Missing: actorNames.octopus
+Strings.xml - Missing: actorNames.starfish
+Strings.xml - Missing: actorNames.fan
+Strings.xml - Missing: actorNames.inkjet
+Strings.xml - Missing: auth.signInTitle
+Strings.xml - Missing: auth.signOutTitle
+Strings.xml - Missing: auth.newUserTitle
+Strings.xml - Missing: auth.creator
+Strings.xml - Missing: auth.currentlySignedInAs
+Strings.xml - Missing: auth.pin
+Strings.xml - Missing: auth.pinError
+Strings.xml - Missing: auth.pinTooShort
+Strings.xml - Missing: auth.pinTooSimple
+Strings.xml - Missing: auth.keepSignedIn
+Strings.xml - Missing: auth.ok
+Strings.xml - Missing: auth.cancel
+Strings.xml - Missing: auth.continue
+Strings.xml - Missing: auth.signOut
+Strings.xml - Missing: auth.helpText
+Strings.xml - Missing: auth.helpTextShort
+Strings.xml - Missing: mainMenu.import
+Strings.xml - Missing: mainMenu.importWorldsCommitButtonText
+Strings.xml - Missing: mainMenu.readMoreHere
+Strings.xml - Missing: mainMenu.paused
+Strings.xml - Identical to EN: programming.when
+Strings.xml - Identical to EN: programming.do
+Strings.xml - Missing: miniHub.share
+Strings.xml - Missing: miniHub.signInFailedMessage
+Strings.xml - Missing: miniHub.signedOutLikeCommentMessage
+Strings.xml - Identical to EN: shareHub.appName
+Strings.xml - Identical to EN: shareHub.appPrefix
+Strings.xml - Identical to EN: shareHub.cmdStart
+Strings.xml - Identical to EN: shareHub.statusOffline
+Strings.xml - Identical to EN: loadLevelMenu.separator
+Strings.xml - Missing: loadLevelMenu.like
+Strings.xml - Missing: loadLevelMenu.comments
+Strings.xml - Missing: loadLevelMenu.signInToComment
+Strings.xml - Missing: loadLevelMenu.addAComment
+Strings.xml - Missing: loadLevelMenu.noComments
+Strings.xml - Missing: loadLevelMenu.commentBy
+Strings.xml - Missing: loadLevelMenu.signedInAs
+Strings.xml - Missing: loadLevelMenu.viewOnSocl
+Strings.xml - Missing: loadLevelMenu.viewOnKoduGameLab
+Strings.xml - Identical to EN: loadLevelMenu.tag
+Strings.xml - Identical to EN: loadLevelMenu.puzzle
+Strings.xml - Missing: loadLevelMenu.sortRank
+Strings.xml - Missing: editWorldParams.debugDisplayCurrentPage
+Strings.xml - Identical to EN: skyGradientNames.grassAndSky
+Strings.xml - Identical to EN: skyGradientNames.space
+Strings.xml - Identical to EN: skyGradientNames.rampBW
+Strings.xml - Identical to EN: skyGradientNames.pink
+Strings.xml - Identical to EN: skyGradientNames.venus
+Strings.xml - Identical to EN: skyGradientNames.sunset
+Strings.xml - Identical to EN: skyGradientNames.mars
+Strings.xml - Identical to EN: skyGradientNames.blues
+Strings.xml - Identical to EN: skyGradientNames.mars2
+Strings.xml - Identical to EN: skyGradientNames.twilight
+Strings.xml - Identical to EN: skyGradientNames.G1
+Strings.xml - Identical to EN: skyGradientNames.G2
+Strings.xml - Identical to EN: skyGradientNames.G3
+Strings.xml - Identical to EN: skyGradientNames.G4
+Strings.xml - Identical to EN: skyGradientNames.G5
+Strings.xml - Identical to EN: skyGradientNames.G6
+Strings.xml - Identical to EN: skyGradientNames.G7
+Strings.xml - Identical to EN: skyGradientNames.G8
+Strings.xml - Identical to EN: skyGradientNames.G9
+Strings.xml - Identical to EN: skyGradientNames.G10
+Strings.xml - Identical to EN: skyGradientNames.G11
+Strings.xml - Identical to EN: lightRigNames.mars
+Strings.xml - Identical to EN: editObjectParams.ok
+Strings.xml - Missing: editObjectParams.helmet
+Strings.xml - Missing: editObjectParams.holdDistance
+Strings.xml - Missing: editObjectParams.verticalAccelerationMultiplier
+Strings.xml - Missing: editObjectParams.displayCurrentPage
+Strings.xml - Missing: optionsParams.showFramerate
+Strings.xml - Missing: optionsParams.language
+Strings.xml - Identical to EN: optionsParams.overscan
+Strings.xml - Missing: optionsParams.changeLanguageMessage
+Strings.xml - Missing: optionsParams.noContinue
+Strings.xml - Missing: optionsParams.yesQuitKodu
+Strings.xml - Identical to EN: textDialog.ok
+Strings.xml - Missing: microbitPatternEditor.brightness
+Strings.xml - Missing: microbitPatternEditor.duration
+Strings.xml - Missing: microbitPatternEditor.toggleLED
+Strings.xml - Missing: microbitNeedsDriverDlg.title
+Strings.xml - Missing: microbitNeedsDriverDlg.message
+Strings.xml - Missing: microbitNeedsDriverDlg.linkLabel
+Strings.xml - Missing: microbitNeedsDriverDlg.cancelLabel
+Strings.xml - Missing: microbitNeedsDriverDlg.installLabel
+Strings.xml - Identical to EN: buttonAliasStrings.gamepad.alias
+Strings.xml - Identical to EN: buttonAliasStrings.boku.alias
+Strings.xml - Identical to EN: buttonAliasStrings.rockLowValue.alias
+Strings.xml - Identical to EN: buttonAliasStrings.rockHighValue.alias
+Strings.xml - Identical to EN: buttonAliasStrings.rockLowValueUnknown.alias
+Strings.xml - Identical to EN: buttonAliasStrings.rockHighValueUnknown.alias
+Strings.xml - Identical to EN: buttonAliasStrings.rockUnknown.alias
+Strings.xml - Identical to EN: buttonAliasStrings.rover.alias
+Strings.xml - Identical to EN: buttonAliasStrings.drag.alias
+Strings.xml - Identical to EN: buttonAliasStrings.doubleDrag.alias
+Strings.xml - Identical to EN: buttonAliasStrings.pinch.alias
+Strings.xml - Identical to EN: buttonAliasStrings.touchHold.alias
+Strings.xml - Identical to EN: buttonAliasStrings.brushBigger.alias
+Strings.xml - Identical to EN: buttonAliasStrings.brushSmaller.alias
+Strings.xml - Identical to EN: saveLevelDialog.version
+Strings.xml - Missing: saveLevelDialog.safetyWarning
+Strings.xml - Missing: toast.microbitNeedsResetHintToast
+Strings.xml - Identical to EN: genres.puzzle
+Strings.xml - Identical to EN: genres.rpg
+Strings.xml - Identical to EN: genres.multiplayer
+Strings.xml - Missing: Update.FormTitle
+Strings.xml - Missing: Update.UpdateMessage
+Strings.xml - Missing: Update.ReleaseNotesMessage
+Strings.xml - Missing: Update.CurrentVersion
+Strings.xml - Missing: Update.LatestVersion
+Strings.xml - Missing: Update.UpdateButtonText
+Strings.xml - Missing: Update.IgnoreButtonText
+Strings.xml - Missing: Update.RemindButtonText
+HelpOverlays.xml - Identical to EN: ModularMessageDialog
+HelpOverlays.xml - Identical to EN: LoadLevelPopup
+HelpOverlays.xml - Identical to EN: MouseEditBase
+HelpOverlays.xml - Identical to EN: MouseEditAddItemPieMenu
+HelpOverlays.xml - Identical to EN: MouseMenu
+HelpOverlays.xml - Identical to EN: MouseEditMenu
+HelpOverlays.xml - Identical to EN: HelpCardProgramming
+HelpOverlays.xml - Identical to EN: HelpCardAddItem
+HelpOverlays.xml - Identical to EN: ToolBox
+HelpOverlays.xml - Identical to EN: BasePicker
+HelpOverlays.xml - Identical to EN: Programming
+HelpOverlays.xml - Identical to EN: PreGame
+TweakScreenHelp.xml - Missing: Helmet
+TweakScreenHelp.xml - Missing: HoldDistance
+TweakScreenHelp.xml - Missing: Debug:DrawCurrentPage
+TweakScreenHelp.xml - Missing: Debug:ShowCurrentPage
+TweakScreenHelp.xml - Missing: ShowFramerate
+TweakScreenHelp.xml - Missing: Language
+Cards.xml - Missing: sensor.microbit.label
+Cards.xml - Missing: sensor.microbit
+Cards.xml - Missing: sensor.path.label
+Cards.xml - Missing: sensor.path
+Cards.xml - Missing: sensor.endofpathnonmover.label
+Cards.xml - Missing: sensor.endofpathnonmover
+Cards.xml - Identical to EN: filter.boku.label
+Cards.xml - Identical to EN: filter.bokubot.label
+Cards.xml - Missing: filter.dead.label
+Cards.xml - Missing: filter.dead
+Cards.xml - Missing: filter.squashed.label
+Cards.xml - Missing: filter.squashed
+Cards.xml - Identical to EN: filter.rover.label
+Cards.xml - Missing: filter.missile.label
+Cards.xml - Missing: filter.missile
+Cards.xml - Missing: filter.strongly.label
+Cards.xml - Missing: filter.strongly
+Cards.xml - Missing: filter.weakly.label
+Cards.xml - Missing: filter.weakly
+Cards.xml - Missing: filter.microbit.label
+Cards.xml - Missing: filter.microbit.tilt.label
+Cards.xml - Missing: filter.microbit.tilt
+Cards.xml - Missing: filter.microbit.leftbutton.label
+Cards.xml - Missing: filter.microbit.leftbutton
+Cards.xml - Missing: filter.microbit.rightbutton.label
+Cards.xml - Missing: filter.microbit.rightbutton
+Cards.xml - Missing: filter.microbit.pin1.label
+Cards.xml - Missing: filter.microbit.pin1
+Cards.xml - Missing: filter.microbit.pin2.label
+Cards.xml - Missing: filter.microbit.pin2
+Cards.xml - Missing: filter.microbit.pin3.label
+Cards.xml - Missing: filter.microbit.pin3
+Cards.xml - Missing: filter.microbit.shake.label
+Cards.xml - Missing: filter.microbit.shake
+Cards.xml - Identical to EN: filter.WASDKeys.label
+Cards.xml - Identical to EN: filter.Akey.label
+Cards.xml - Identical to EN: filter.Bkey.label
+Cards.xml - Identical to EN: filter.Ckey.label
+Cards.xml - Identical to EN: filter.Dkey.label
+Cards.xml - Identical to EN: filter.Ekey.label
+Cards.xml - Identical to EN: filter.Fkey.label
+Cards.xml - Identical to EN: filter.Gkey.label
+Cards.xml - Identical to EN: filter.Hkey.label
+Cards.xml - Identical to EN: filter.Ikey.label
+Cards.xml - Identical to EN: filter.Jkey.label
+Cards.xml - Identical to EN: filter.Kkey.label
+Cards.xml - Identical to EN: filter.Lkey.label
+Cards.xml - Identical to EN: filter.Mkey.label
+Cards.xml - Identical to EN: filter.Nkey.label
+Cards.xml - Identical to EN: filter.Okey.label
+Cards.xml - Identical to EN: filter.Pkey.label
+Cards.xml - Identical to EN: filter.Qkey.label
+Cards.xml - Identical to EN: filter.Rkey.label
+Cards.xml - Identical to EN: filter.Skey.label
+Cards.xml - Identical to EN: filter.Tkey.label
+Cards.xml - Identical to EN: filter.Ukey.label
+Cards.xml - Identical to EN: filter.Vkey.label
+Cards.xml - Identical to EN: filter.Wkey.label
+Cards.xml - Identical to EN: filter.Xkey.label
+Cards.xml - Identical to EN: filter.Ykey.label
+Cards.xml - Identical to EN: filter.Zkey.label
+Cards.xml - Identical to EN: filter.D0key.label
+Cards.xml - Identical to EN: filter.D1key.label
+Cards.xml - Identical to EN: filter.D2key.label
+Cards.xml - Identical to EN: filter.D3key.label
+Cards.xml - Identical to EN: filter.D4key.label
+Cards.xml - Identical to EN: filter.D5key.label
+Cards.xml - Identical to EN: filter.D6key.label
+Cards.xml - Identical to EN: filter.D7key.label
+Cards.xml - Identical to EN: filter.D8key.label
+Cards.xml - Identical to EN: filter.D9key.label
+Cards.xml - Identical to EN: filter.PageUpkey.label
+Cards.xml - Identical to EN: filter.PageDownkey.label
+Cards.xml - Identical to EN: filter.Endkey.label
+Cards.xml - Identical to EN: filter.Insertkey.label
+Cards.xml - Identical to EN: filter.Deletekey.label
+Cards.xml - Identical to EN: filter.Multiplykey.label
+Cards.xml - Identical to EN: filter.Addkey.label
+Cards.xml - Identical to EN: filter.Subtractkey.label
+Cards.xml - Identical to EN: filter.Decimalkey.label
+Cards.xml - Identical to EN: filter.Dividekey.label
+Cards.xml - Identical to EN: filter.OemSemicolonkey.label
+Cards.xml - Identical to EN: filter.OemPluskey.label
+Cards.xml - Identical to EN: filter.OemCommakey.label
+Cards.xml - Identical to EN: filter.OemMinuskey.label
+Cards.xml - Identical to EN: filter.OemPeriodkey.label
+Cards.xml - Identical to EN: filter.OemQuestionkey.label
+Cards.xml - Identical to EN: filter.OemTildekey.label
+Cards.xml - Identical to EN: filter.OemOpenBracketskey.label
+Cards.xml - Identical to EN: filter.OemPipekey.label
+Cards.xml - Identical to EN: filter.OemCloseBracketskey.label
+Cards.xml - Identical to EN: filter.OemQuoteskey.label
+Cards.xml - Identical to EN: filter.OemBackslashkey.label
+Cards.xml - Identical to EN: filter.F1key.label
+Cards.xml - Identical to EN: filter.F2key.label
+Cards.xml - Identical to EN: filter.F3key.label
+Cards.xml - Identical to EN: filter.F4key.label
+Cards.xml - Identical to EN: filter.F5key.label
+Cards.xml - Identical to EN: filter.F6key.label
+Cards.xml - Identical to EN: filter.F7key.label
+Cards.xml - Identical to EN: filter.F8key.label
+Cards.xml - Identical to EN: filter.F9key.label
+Cards.xml - Identical to EN: filter.F10key.label
+Cards.xml - Identical to EN: filter.F11key.label
+Cards.xml - Identical to EN: filter.F12key.label
+Cards.xml - Identical to EN: filter.Shiftkey.label
+Cards.xml - Identical to EN: filter.Controlkey.label
+Cards.xml - Identical to EN: filter.Altkey.label
+Cards.xml - Identical to EN: filter.Windowskey.label
+Cards.xml - Missing: filter.eighthsecond.label
+Cards.xml - Missing: filter.eighthsecond
+Cards.xml - Identical to EN: filter.scorebucket.local.a
+Cards.xml - Identical to EN: filter.scorebucket.local.b
+Cards.xml - Identical to EN: filter.scorebucket.local.c
+Cards.xml - Identical to EN: filter.scorebucket.local.d
+Cards.xml - Identical to EN: filter.scorebucket.local.e
+Cards.xml - Identical to EN: filter.scorebucket.local.f
+Cards.xml - Identical to EN: filter.scorebucket.local.g
+Cards.xml - Identical to EN: filter.scorebucket.local.h
+Cards.xml - Identical to EN: filter.scorebucket.local.i
+Cards.xml - Identical to EN: filter.scorebucket.local.j
+Cards.xml - Identical to EN: filter.scorebucket.local.k
+Cards.xml - Identical to EN: filter.scorebucket.local.l
+Cards.xml - Identical to EN: filter.scorebucket.local.m
+Cards.xml - Identical to EN: filter.scorebucket.local.n
+Cards.xml - Identical to EN: filter.scorebucket.local.o
+Cards.xml - Identical to EN: filter.scorebucket.local.p
+Cards.xml - Identical to EN: filter.scorebucket.local.q
+Cards.xml - Identical to EN: filter.scorebucket.local.r
+Cards.xml - Identical to EN: filter.scorebucket.local.s
+Cards.xml - Identical to EN: filter.scorebucket.local.t
+Cards.xml - Identical to EN: filter.scorebucket.local.u
+Cards.xml - Identical to EN: filter.scorebucket.local.v
+Cards.xml - Identical to EN: filter.scorebucket.local.w
+Cards.xml - Identical to EN: filter.scorebucket.local.x
+Cards.xml - Identical to EN: filter.scorebucket.local.y
+Cards.xml - Identical to EN: filter.scorebucket.local.z
+Cards.xml - Missing: filter.health.label
+Cards.xml - Missing: filter.health
+Cards.xml - Missing: filter.maxhealth.label
+Cards.xml - Missing: filter.maxhealth
+Cards.xml - Missing: filter.settings.maxhealth.label
+Cards.xml - Missing: filter.settings.maxhealth
+Cards.xml - Missing: filter.settings.blipdamage.label
+Cards.xml - Missing: filter.settings.blipdamage
+Cards.xml - Missing: filter.settings.missiledamage.label
+Cards.xml - Missing: filter.settings.missiledamage
+Cards.xml - Missing: modifier.health.label
+Cards.xml - Missing: modifier.health
+Cards.xml - Missing: modifier.maxhealth.label
+Cards.xml - Missing: modifier.maxhealth
+Cards.xml - Missing: modifier.payloadsquash.label
+Cards.xml - Missing: modifier.payloadsquash
+Cards.xml - Identical to EN: modifier.scorebucket.local.a
+Cards.xml - Identical to EN: modifier.scorebucket.local.b
+Cards.xml - Identical to EN: modifier.scorebucket.local.c
+Cards.xml - Identical to EN: modifier.scorebucket.local.d
+Cards.xml - Identical to EN: modifier.scorebucket.local.e
+Cards.xml - Identical to EN: modifier.scorebucket.local.f
+Cards.xml - Identical to EN: modifier.scorebucket.local.g
+Cards.xml - Identical to EN: modifier.scorebucket.local.h
+Cards.xml - Identical to EN: modifier.scorebucket.local.i
+Cards.xml - Identical to EN: modifier.scorebucket.local.j
+Cards.xml - Identical to EN: modifier.scorebucket.local.k
+Cards.xml - Identical to EN: modifier.scorebucket.local.l
+Cards.xml - Identical to EN: modifier.scorebucket.local.m
+Cards.xml - Identical to EN: modifier.scorebucket.local.n
+Cards.xml - Identical to EN: modifier.scorebucket.local.o
+Cards.xml - Identical to EN: modifier.scorebucket.local.p
+Cards.xml - Identical to EN: modifier.scorebucket.local.q
+Cards.xml - Identical to EN: modifier.scorebucket.local.r
+Cards.xml - Identical to EN: modifier.scorebucket.local.s
+Cards.xml - Identical to EN: modifier.scorebucket.local.t
+Cards.xml - Identical to EN: modifier.scorebucket.local.u
+Cards.xml - Identical to EN: modifier.scorebucket.local.v
+Cards.xml - Identical to EN: modifier.scorebucket.local.w
+Cards.xml - Identical to EN: modifier.scorebucket.local.x
+Cards.xml - Identical to EN: modifier.scorebucket.local.y
+Cards.xml - Identical to EN: modifier.scorebucket.local.z
+Cards.xml - Missing: modifier.settings.maxhealth.label
+Cards.xml - Missing: modifier.settings.maxhealth
+Cards.xml - Missing: modifier.settings.blipdamage.label
+Cards.xml - Missing: modifier.settings.blipdamage
+Cards.xml - Missing: modifier.settings.missiledamage.label
+Cards.xml - Missing: modifier.settings.missiledamage
+Cards.xml - Identical to EN: modifier.event.silly.bang.label
+Cards.xml - Identical to EN: modifier.event.silly.pow.label
+Cards.xml - Identical to EN: modifier.event.musical.gong.any.label
+Cards.xml - Identical to EN: modifier.event.musical.gong01.label
+Cards.xml - Identical to EN: modifier.event.musical.gong02.label
+Cards.xml - Identical to EN: modifier.event.musical.gong03.label
+Cards.xml - Identical to EN: modifier.event.musical.gong04.label
+Cards.xml - Identical to EN: modifier.event.musical.gong05.label
+Cards.xml - Identical to EN: modifier.event.musical.gong06.label
+Cards.xml - Identical to EN: modifier.event.musical.gong07.label
+Cards.xml - Identical to EN: modifier.event.musical.gong08.label
+Cards.xml - Identical to EN: modifier.event.musical.gong09.label
+Cards.xml - Identical to EN: modifier.event.musical.gong10.label
+Cards.xml - Identical to EN: modifier.event.musical.gong11.label
+Cards.xml - Identical to EN: modifier.event.musical.gong12.label
+Cards.xml - Identical to EN: modifier.event.musical.shaker.label
+Cards.xml - Identical to EN: modifier.event.musical.shaker
+Cards.xml - Identical to EN: modifier.event.arcade.any.label
+Cards.xml - Identical to EN: modifier.event.misc.any.label
+Cards.xml - Identical to EN: modifier.event.misc.epic_stinger.label
+Cards.xml - Identical to EN: modifier.event.misc.epic_stinger_a.label
+Cards.xml - Identical to EN: modifier.event.misc.epic_stinger_b.label
+Cards.xml - Identical to EN: modifier.event.misc.powerup.label
+Cards.xml - Identical to EN: modifier.event.misc.servo.label
+Cards.xml - Identical to EN: modifier.event.misc.tagbase.label
+Cards.xml - Identical to EN: modifier.event.tower.shrinker_fire.label
+Cards.xml - Identical to EN: modifier.mu_brightfunk.label
+Cards.xml - Identical to EN: modifier.mu_kodu.label
+Cards.xml - Identical to EN: modifier.mu_kodu
+Cards.xml - Missing: modifier.on.label
+Cards.xml - Missing: modifier.on
+Cards.xml - Missing: modifier.off.label
+Cards.xml - Missing: modifier.off
+Cards.xml - Missing: modifier.microbit.pattern.label
+Cards.xml - Missing: modifier.microbit.pattern
+Cards.xml - Missing: modifier.frequencyunits.khz.label
+Cards.xml - Missing: modifier.frequencyunits.khz
+Cards.xml - Identical to EN: actuator.inlinetask.label
+Cards.xml - Missing: actuator.maxhitpoints.label
+Cards.xml - Missing: actuator.maxhitpoints
+Cards.xml - Missing: actuator.blipdamage.label
+Cards.xml - Missing: actuator.blipdamage
+Cards.xml - Missing: actuator.missiledamage.label
+Cards.xml - Missing: actuator.missiledamage
+Cards.xml - Missing: actuator.blipreloadtime.label
+Cards.xml - Missing: actuator.blipreloadtime
+Cards.xml - Missing: actuator.bliprange.label
+Cards.xml - Missing: actuator.bliprange
+Cards.xml - Missing: actuator.missilereloadtime.label
+Cards.xml - Missing: actuator.missilereloadtime
+Cards.xml - Missing: actuator.missilerange.label
+Cards.xml - Missing: actuator.missilerange
+Cards.xml - Missing: actuator.closebyrange.label
+Cards.xml - Missing: actuator.closebyrange
+Cards.xml - Missing: actuator.farawayrange.label
+Cards.xml - Missing: actuator.farawayrange
+Cards.xml - Missing: actuator.hearingrange.label
+Cards.xml - Missing: actuator.hearingrange
+Cards.xml - Missing: actuator.squash.label
+Cards.xml - Missing: actuator.squash
+Cards.xml - Missing: actuator.microbit.say.label
+Cards.xml - Missing: actuator.microbit.say
+Cards.xml - Missing: actuator.microbit.block.label
+Cards.xml - Missing: actuator.microbit.block
+Cards.xml - Missing: actuator.microbit.sequential.label
+Cards.xml - Missing: actuator.microbit.sequential
+Cards.xml - Missing: actuator.microbit.show.label
+Cards.xml - Missing: actuator.microbit.show
+Cards.xml - Missing: actuator.microbit.setpin1.label
+Cards.xml - Missing: actuator.microbit.setpin1
+Cards.xml - Missing: actuator.microbit.setpin2.label
+Cards.xml - Missing: actuator.microbit.setpin2
+Cards.xml - Missing: actuator.microbit.setpin3.label
+Cards.xml - Missing: actuator.microbit.setpin3
+Cards.xml - Missing: actuator.microbit.setpwmfrequency.pin1.label
+Cards.xml - Missing: actuator.microbit.setpwmfrequency.pin1
+Cards.xml - Missing: actuator.microbit.setpwmfrequency.pin2.label
+Cards.xml - Missing: actuator.microbit.setpwmfrequency.pin2
+Cards.xml - Missing: actuator.microbit.setpwmfrequency.pin3.label
+Cards.xml - Missing: actuator.microbit.setpwmfrequency.pin3
+Cards.xml - Missing: actuator.microbit.setpwmdutycycle.pin1.label
+Cards.xml - Missing: actuator.microbit.setpwmdutycycle.pin1
+Cards.xml - Missing: actuator.microbit.setpwmdutycycle.pin2.label
+Cards.xml - Missing: actuator.microbit.setpwmdutycycle.pin2
+Cards.xml - Missing: actuator.microbit.setpwmdutycycle.pin3.label
+Cards.xml - Missing: actuator.microbit.setpwmdutycycle.pin3
+Cards.xml - Identical to EN: group.rover.label
+Cards.xml - Identical to EN: group.event.musical.gong.label
+Cards.xml - Identical to EN: group.angle.label
+Cards.xml - Identical to EN: group.scorebucketmodifiers.label
+Cards.xml - Identical to EN: group.scorebucketmodifiers.local.label
+Cards.xml - Identical to EN: group.scorefilters.label
+Cards.xml - Identical to EN: group.scorebucketfilters.label
+Cards.xml - Identical to EN: group.scorebucketfilters.local.label
+Cards.xml - Missing: group.settingsfilters.label
+Cards.xml - Missing: group.settingsmodifiers.label
+Cards.xml - Missing: group.microbit.actions.gpio.label
+Help.xml - Identical to EN: BokuBot
+Help.xml - Identical to EN: Clam
+Help.xml - Identical to EN: Starfish
+Help.xml - Identical to EN: LilypadSingle
+Help.xml - Identical to EN: Lilypad
+Help.xml - Identical to EN: SeagrassSingle
+Help.xml - Identical to EN: Seagrass
+Help.xml - Identical to EN: PipeStraight
+Help.xml - Identical to EN: PipeCorner
+Help.xml - Identical to EN: PipeCross
+Help.xml - Identical to EN: InkJet
+Help.xml - Identical to EN: TerraCannon
+Help.xml - Identical to EN: FlyFish
+Help.xml - Identical to EN: Jet
+Help.xml - Identical to EN: FloatBot
+Help.xml - Identical to EN: FastBot
+Help.xml - Identical to EN: StickBoy
+Help.xml - Identical to EN: SubBot
+Help.xml - Identical to EN: Fan
+Help.xml - Identical to EN: Octopus
+Help.xml - Identical to EN: Light
+Help.xml - Identical to EN: Wisp
+Help.xml - Identical to EN: Saucer
+Help.xml - Identical to EN: WindBlimp
+Help.xml - Identical to EN: BalloonBot
+Help.xml - Identical to EN: Puck
+Help.xml - Identical to EN: PushPad
+Help.xml - Identical to EN: Turtle
+Help.xml - Identical to EN: SwimFish
+Help.xml - Identical to EN: Cloud
+Help.xml - Identical to EN: Mine
+Help.xml - Identical to EN: Drum
+Help.xml - Identical to EN: Sputnik
+Help.xml - Identical to EN: BigYucca1
+Help.xml - Identical to EN: Yucca1
+Help.xml - Identical to EN: Yucca3
+Help.xml - Identical to EN: Yucca2
+Help.xml - Identical to EN: Fruit
+Help.xml - Identical to EN: IceBerg
+Help.xml - Identical to EN: Rock
+Help.xml - Identical to EN: RockLowValue
+Help.xml - Identical to EN: RockHighValue
+Help.xml - Identical to EN: RockLowValueUnknown
+Help.xml - Identical to EN: RockHighValueUnknown
+Help.xml - Identical to EN: Star
+Help.xml - Identical to EN: Coin
+Help.xml - Identical to EN: SoccerBall
+Help.xml - Identical to EN: Castle
+Help.xml - Identical to EN: Heart
+Help.xml - Identical to EN: Bullet
+Help.xml - Identical to EN: Factory
+Help.xml - Identical to EN: Hut
+Help.xml - Identical to EN: WayPoint
+Help.xml - Identical to EN: PathGeneric
+Help.xml - Identical to EN: PathVeggie
+Help.xml - Identical to EN: PathRoad
+Help.xml - Identical to EN: PathWall
+Help.xml - Identical to EN: Rover
+TutorialStrings.Xml - Missing: TargetMode: TouchCameraMove
+TutorialStrings.Xml - Missing: TargetMode: HomeMenu
+TutorialStrings.Xml - Missing: TargetMode: MouseEditObject
+TutorialStrings
